@@ -1,9 +1,12 @@
 {
   "name": "simulation-modeling",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Имитационное моделирование",
   "main": "index.js",
-  "repository": "git@github.com:ratratik/-2026-1--study--simulation-modeling.git",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ratratik/-2026-1--study--simulation-modeling.git"
+  },
   "author": "Елизавета Постнова <fnafmemories@gmail.com>",
   "license": "CC-BY-4.0",
   "config": {
@@ -12,9 +15,11 @@
     }
   },
   "devDependencies": {
-    "commit-and-tag-version": "^12.6.1"
+    "commit-and-tag-version": "^12.6.1",
+    "cz-customizable": "^7.3.0"
   },
   "scripts": {
-    "release": "commit-and-tag-version"
+    "release": "commit-and-tag-version",
+    "commit": "cz-customizable"
   }
 }
