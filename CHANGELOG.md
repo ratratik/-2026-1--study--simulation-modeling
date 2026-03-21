@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.3.0](https://github.com/ratratik/-2026-1--study--simulation-modeling/compare/v1.1.0...v1.3.0) (2026-03-21)
+
+
+### Features
+
+* **main:** make course structure ([aa781ad](https://github.com/ratratik/-2026-1--study--simulation-modeling/commit/aa781ad542332d540ca0dcc6bcd82a30cdcd3de2))
+* **main:** make course structure ([aa09ed9](https://github.com/ratratik/-2026-1--study--simulation-modeling/commit/aa09ed960db0366a9209470fdb0ba623c9d5296d))
+
 ## [1.1.0](https://github.com/ratratik/-2026-1--study--simulation-modeling/compare/v1.0.0...v1.1.0) (2026-03-05)
 
 
