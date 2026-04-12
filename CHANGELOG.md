@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.4.1](https://github.com/ratratik/-2026-1--study--simulation-modeling/compare/v1.4.0...v1.4.1) (2026-04-12)
+
 ## [1.4.0](https://github.com/ratratik/-2026-1--study--simulation-modeling/compare/v1.2.0...v1.4.0) (2026-03-23)
 
 
